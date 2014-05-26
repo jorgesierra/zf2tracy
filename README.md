@@ -11,7 +11,7 @@ http://nette.github.io/tracy/
 ```json
 {
     "require": {
-        "jorgesierra/ZF2Tracy": "dev-master"
+        "jorgesierra/zf2tracy": "dev-master"
     }
 }
 ```
