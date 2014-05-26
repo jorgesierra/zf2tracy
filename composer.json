@@ -26,7 +26,7 @@
     },
     "autoload" : {
         "psr-0" : {
-            "ZF2Tracy" : "src/"
+            "ZF2Tracy" : "./"
         },
         "classmap" : [
             "./Module.php"
