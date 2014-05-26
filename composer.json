@@ -1,5 +1,5 @@
 {
-    "name" : "jorgesierra/ZF2Tracy",
+    "name" : "jorgesierra/zf2tracy",
     "description" : "Tracy PHP debugger for ZF2",
     "type" : "library",
     "authors" : [
