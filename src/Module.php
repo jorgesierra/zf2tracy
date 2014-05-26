@@ -60,7 +60,7 @@ class Module
         return array(
             'Zend\Loader\StandardAutoloader' => array(
                 'namespaces' => array(
-                    'Tracy' => __DIR__ . '/../../vendor/Tracy',
+                    'ZF2Tracy' => __DIR__ . '/../../vendor/Tracy',
                 ),
             ),
         );
