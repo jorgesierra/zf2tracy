@@ -24,6 +24,7 @@ http://nette.github.io/tracy/
 
 ## Configuration
 
+```array
 return array(
     'tracy_debug' => array(
         'enabled' => TRUE,
@@ -35,5 +36,6 @@ return array(
         'max_len' => 150,                           // max string display length
     ),
 );
+```
 
 Inspired by https://github.com/webino/ZF2NetteDebug
